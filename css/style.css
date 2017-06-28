@@ -1,0 +1,16 @@
+body{
+  background-image: url('background.jpg');
+}
+.weather{
+  opacity: 0.9;
+  border: solid 5px #9999ff;
+  background-color:#99ccff;
+  width:400px;
+  height:300px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10%;
+}
+.weather span{
+  font-size: 25px;
+}
